@@ -9,3 +9,6 @@ Blog:     https://dsiw.wordpress.com/
 License:  GPLv3
 
 Icons of stones are from the ubuntu game "quadrapassel".
+
+Playing:
+java -jar dedris.jar
