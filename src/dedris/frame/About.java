@@ -33,10 +33,13 @@ public class About extends MyJFrame {
 				"Version 1.0\n" +
 				"\n" +
 				"Autor: DSIW\n" +
-				"E-Mail: dsiw@privatdemail.net\n" +
+				"E-Mail: dsiw@dsiw-it.de\n" +
 				"\n" +
-				"Projekt „Spielprogrammierung“\n" +
+				"Projekt „Objektorientierte Softwareentwicklung“\n" +
 				"im 1. Semester"+
+				"\n" +
+        "Download:\n" +
+        "GitHub: https://github.com/DSIW/dedris" +
 				"\n" +
 				"Lizenz:\n" +
 				"GPLv3" +
